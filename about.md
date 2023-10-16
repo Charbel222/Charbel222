@@ -2,7 +2,7 @@
     <h1 style="font-size: 36px;">Hi 👋, I'm Charbel</h1>
     <h3 style="font-size: 24px; color: #333;">Full Stack Developer</h3>
 
-    <h3 style="font-size: 24px; color: #333; margin-top: 30px;">Connect with me:</h3>
+<h3 style="font-size: 24px; color: #333; margin-top: 30px;">Connect with me:</h3>
     <p style="margin-top: 15px;">
         <a href="https://github.com/charbel222" target="_blank" style="text-decoration: none; margin: 0 10px;">
             <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
@@ -18,9 +18,9 @@
         </a>
     </p>
 
-    <h2 style="font-size: 28px; color: #333; margin-top: 40px;">My Skill Set</h2>
+   <h2 style="font-size: 28px; color: #333; margin-top: 40px;">My Skill Set</h2>
 
-    <div align="center" style="background-color: #f9f9f9; padding: 40px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 20px 0;">
+ <div align="center" style="background-color: #f9f9f9; padding: 40px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 20px 0;">
         <h2 style="font-size: 28px; color: #333; margin-bottom: 20px;">Skills</h2>
         <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
             <!-- Skill icons with animation on hover -->
@@ -71,9 +71,9 @@
 
     ---
 
-    <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+ <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
-    <div align="center">
+ <div align="center">
         <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
             <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
         </a>
