@@ -22,7 +22,7 @@
 
   <div align="center" style="background-color: #ffffff; padding: 40px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 20px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
         <!-- Skill icons with animation on hover -->
-        <div style="padding: 20px; border-radius: 10px; box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1); transition: 0.3s ease; background-color: #ffffff;">
+<!--         <div style="padding: 20px; border-radius: 10px; box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1); transition: 0.3s ease; background-color: #ffffff;">
             <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/>
         </div>
         <div style="padding: 20px; border-radius: 10px; box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1); transition: 0.3s ease; background-color: #ffffff;">
@@ -58,7 +58,19 @@
         </div>
         <div style="padding: 20px; border-radius: 10px; box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1); transition: 0.3s ease; background-color: #ffffff;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-        </div>
+        </div> -->
+        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     </div>
 
 <br/>
