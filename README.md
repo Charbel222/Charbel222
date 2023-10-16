@@ -14,7 +14,7 @@
 ## My Skill Set
 
 <div align="center">
-  <h4>Frontend</h4>
+  <h4>skills</h4>
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/>
@@ -22,15 +22,14 @@
   <img src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"/>
-
-  <h4>Backend</h4>
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/nextjs-original-wordmark.svg" alt="Next.js" height="50"/>
+
+
 </div>
 
 <br/>
