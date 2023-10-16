@@ -23,10 +23,10 @@
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/nextjs-original-wordmark.svg" alt="Next.js" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Express.js" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </div>
 
 <br/>
