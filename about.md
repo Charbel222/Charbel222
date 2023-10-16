@@ -1,3 +1,4 @@
+<div align=center>
 <h1 align="center">Hi 👋, I'm Charbel</h1>
 <h3 align="center">Full Stack Developer</h3>
 
@@ -39,4 +40,5 @@
   <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
   </a>
+</div>
 </div>
