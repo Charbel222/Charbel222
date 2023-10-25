@@ -52,8 +52,8 @@
 
 ### Let's Code Together!
 <br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/charbel222/charbel222/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
-**Note:** Replace `https://www.instagram.com/charbelelherrera/"`, `charbel.elherrera.96@gmail.com`, and `https://www.linkedin.com/in/charbel-el-herrera-859b24265/` with your actual social media profile links.
+**Note:** Replace `https://raw.githubusercontent.com/charbel222/charbel222/output/github-contribution-grid-snake.svg` with the actual URL where your Snake animation SVG file is hosted. Make sure the file is publicly accessible for it to be displayed in your README.
