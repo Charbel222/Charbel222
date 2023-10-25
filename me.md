@@ -52,8 +52,8 @@
 
 ### Let's Code Together!
 <br clear="both">
-<img src="https://raw.githubusercontent.com/charbel222/charbel222/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/charbel222/charbel222/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
-**Note:** Replace `https://raw.githubusercontent.com/charbel222/charbel222/output/github-contribution-grid-snake.svg` with the actual URL where your Snake animation SVG file is hosted. Make sure the file is publicly accessible for it to be displayed in your README.
+**Note:** Replace both instances of `charbel222` in the URL with your actual GitHub username. Make sure the SVG file is in the correct location and accessible to the public for it to be displayed in your README.
