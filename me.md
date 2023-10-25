@@ -52,8 +52,8 @@
 
 ### Let's Code Together!
 <br clear="both">
-<img src="https://github.com/charbel222/charbel222/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 ![snake gif](https://github.com/charbel222/charbel222/blob/output/github-contribution-grid-snake.gif)
+
 ---
 
 **Note:** Replace both instances of `charbel222` in the URL with your actual GitHub username. Make sure the SVG file is in the correct location and accessible to the public for it to be displayed in your README.
