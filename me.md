@@ -28,7 +28,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charbel222&show_icons=true&count_private=true&theme=dracula&hide_border=true)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charbel222&layout=compact&langs_count=10&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charbel222&layout=compact&langs_count=10&theme=dracula&hide_border=true
+)
 
 
 
