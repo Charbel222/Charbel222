@@ -1,6 +1,6 @@
 <div align=center>
-<h1 align="center">Hi :winken:, I'm Charbel</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Charbel El Herrera</h1>
+<h3 align="center">MERN-STACK Developer</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://github.com/charbel222" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
